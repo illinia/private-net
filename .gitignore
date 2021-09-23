@@ -1,0 +1,7 @@
+keystore
+geth
+
+truffle-metacoin/build
+truffle-metacoin/contracts
+truffle-metacoin/migrations
+truffle-metacoin/test
